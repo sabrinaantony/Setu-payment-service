@@ -509,8 +509,4 @@ All filtering, pagination, counting, and aggregation happens in SQL. Python is o
 
 ## 8. AI Tool Disclosure
 
-Claude (Anthropic) was used to:
-- Generate the project scaffolding, service layer, and test suite based on the problem statement
-- Review and iterate on schema design decisions
-
-All code was reviewed, understood, and validated by the author before submission. The architectural decisions, schema design rationale, and tradeoff analysis represent the author's own engineering judgment.
+AI-assisted development (Claude by Anthropic). All code reviewed and validated by the author.
